@@ -1,5 +1,7 @@
 .exercism
 
+.idea
+
 .lein-failures
 /classes/
 /target/
